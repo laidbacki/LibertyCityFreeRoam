@@ -11,7 +11,7 @@ How to start:
 
 
 It contains:
-- Full Liberty City Map (Unloaded Los Santos map)
+- Full Liberty City Map with working *Traffic* and working *Dispatch* (Unloaded Los Santos map)
 - vMenu with 50+ GTA IV Add-On Vehicles
 - Working Phone
 - No Lag
