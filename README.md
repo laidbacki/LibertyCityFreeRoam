@@ -1,7 +1,7 @@
 # Liberty-City_FreeRoam
 A Liberty City free-roam Server base for Fivem | NO SQL | NO LAG | GTA IV Cars
 
-How to start:
+**How to start**:
  Add Steam API Key in Server.cfg | 
  Add Keymaster Key in Server.cfg | 
  Modify ServerStart.bat with your Server Directory. | 
