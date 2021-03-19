@@ -1,5 +1,7 @@
 # Liberty-City_FreeRoam
-A Liberty City free-roam Server base for Fivem | NO SQL | NO LAG | GTA IV Cars
+A Liberty City free-roam Server base for FiveM | NO SQL |
+
+-This is inspired to Gta IV Multiplayer FreeRoam.
 
 **How to start**:
  Add Steam API Key in Server.cfg | 
