@@ -11,15 +11,15 @@ A Liberty City free-roam Server base for Fivem | NO SQL | NO LAG | GTA IV Cars
 
 
 It contains:
-- Full Liberty City Map with working *Traffic* and working *Dispatch* (Unloaded Los Santos map)
-- vMenu with 50+ GTA IV Add-On Vehicles
+- Full Liberty City Map with working *Traffic* and working *Dispatch* (**Unloaded Los Santos map**)
+- vMenu with 50+ **GTA IV Add-On** Vehicles
 - Working Phone
 - No Lag
-- VisualSettings, Removed FOG
-- Taxi System (F7) [need configuration]
-- Gta IV Vehicles Handling & Realistic Damage
-- Working Sirens on ELS (G) | Realistic Brake Lights | Realistic Air Control
-- Gta IV Ragdoll System
+- VisualSettings, Removed *FOG*
+- Taxi System (**F7**) [need configuration]
+- Gta IV Vehicles **Handling & Realistic Damage**
+- Working *Sirens* on ELS (G) | Realistic Brake Lights | Realistic Air Control
+- Gta IV **Ragdoll System**
 - Real Weapons
 - NO SQL/DATABASE NEEDED!
 
