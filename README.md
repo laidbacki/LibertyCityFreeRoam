@@ -12,7 +12,7 @@ A Liberty City free-roam Server base for FiveM | NO SQL |
 **SERVER START/JOIN TAKES A LOT THE FIRST TIME.**
 
 /help to see all the useful commands
-/rules to see server rules
+/rules to view server rules
 
 It contains:
 - Full Liberty City Map with working *Traffic* and working *Dispatch* (**Unloaded Los Santos map**)
@@ -20,7 +20,7 @@ It contains:
 - Working Phone
 - No Lag
 - VisualSettings, Removed *FOG*
-- Taxi System (**F7**) [need configuration]
+- Taxi System (**F7**) [Little bug: stupid drivers]
 - Gta IV Vehicles **Handling & Realistic Damage**
 - Working *Sirens* on ELS (G) | Realistic Brake Lights | Realistic Air Control
 - Gta IV **Ragdoll System**
