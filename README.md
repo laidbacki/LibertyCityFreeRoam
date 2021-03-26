@@ -30,7 +30,7 @@ It contains:
 - NO SQL/DATABASE NEEDED!
 - NO STEAM NEEDED TO JOIN
 
-Known Bugs: Teleport with vMenu may cause crash.
+Known Bugs: Teleport to player with vMenu may cause crash.
 
 
 Credits for the Map: CJ, Math, PichotM, Vladi Boy, Ly, njkellman, ER
