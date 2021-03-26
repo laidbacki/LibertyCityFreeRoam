@@ -34,4 +34,4 @@ Known Bugs: Teleport with vMenu may cause crash.
 Credits for the Map: CJ, Math, PichotM, Vladi Boy, Ly, njkellman, ER
 
 
-**THIS SERVER IS BASED ON VENOMOUS FREE-ROAM PROJECT By Ghermans | https://github.com/FiveM-Scripts/venomous-freemode
+**THIS SERVER IS BASED ON VENOMOUS BASIC FREE-ROAM PROJECT By Ghermans | https://github.com/FiveM-Scripts/venomous-freemode
