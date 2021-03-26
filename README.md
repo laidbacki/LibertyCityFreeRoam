@@ -20,7 +20,7 @@ It contains:
 - Working Phone
 - No Lag
 - VisualSettings, Removed *FOG*
-- Taxi System (**F7**) [Little bug: stupid drivers]
+- Taxi System (**F7**) [Little bug: drivers blind af]
 - Gta IV Vehicles **Handling & Realistic Damage**
 - Working *Sirens* on ELS (G) | Realistic Brake Lights | Realistic Air Control
 - Gta IV **Ragdoll System**
