@@ -25,6 +25,7 @@ It contains:
 - Working *Sirens* on ELS (G) | Realistic Brake Lights | Realistic Air Control
 - Gta IV **Ragdoll System**
 - Real Weapons
+- Only IV Peds & Teleport Interiors on vMenu
 - FULLY CUSTOM VMENU FOR FREEROAM 
 - NO SQL/DATABASE NEEDED!
 - NO STEAM NEEDED TO JOIN
