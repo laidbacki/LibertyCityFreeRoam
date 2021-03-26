@@ -18,7 +18,7 @@ It contains:
 - Full Liberty City Map with working *Traffic* and working *Dispatch* (**Unloaded Los Santos map**)
 - vMenu with lot of **GTA IV Add-On** Vehicles
 - Working Phone
-- No Lag
+- Full Working Gamemode| No Lag
 - VisualSettings, Removed *FOG*
 - Taxi System (**F7**) [Little bug: drivers blind af]
 - Gta IV Vehicles **Handling & Realistic Damage**
