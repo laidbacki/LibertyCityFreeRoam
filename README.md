@@ -36,3 +36,6 @@ Credits for the Map: CJ, Math, PichotM, Vladi Boy, Ly, njkellman, ER
 
 
 **THIS SERVER IS BASED ON VENOMOUS BASIC FREE-ROAM PROJECT By Ghermans | https://github.com/FiveM-Scripts/venomous-freemode
+
+
+**IF YOU NEED/WANT HELP OR COLLABORATION THIS IS MY DISCORD ID: laidbackivan#6963
