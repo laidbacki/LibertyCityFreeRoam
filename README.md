@@ -1,5 +1,5 @@
 # Liberty-City_FreeRoam
-A Liberty City free-roam Server base for FiveM | NO SQL |
+A Liberty City free-roam Server base for *FiveM
 
 -This is inspired to Gta IV Multiplayer FreeRoam.
 
