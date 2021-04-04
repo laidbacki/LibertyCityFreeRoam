@@ -7,6 +7,7 @@ A Liberty City free-roam Server base for *FiveM
  Add Steam API Key in Server.cfg | 
  Add Keymaster Key in Server.cfg | 
  Modify ServerStart.bat with your Server Directory. | 
+ (Remember to change the first line for the corrent function of vMenu |***README***)
  No database needed, ENJOY!
 
 **SERVER START/JOIN TAKES A LOT THE FIRST TIME.**
